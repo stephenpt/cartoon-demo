@@ -1,8 +1,14 @@
 /*weightloss.css called by weightloss.html*/
 
-body{}
+body{
+		text-align: center;
+	max-width: 800px;
+}
 
 header{
 	text-align: center;
-	background-color: darkred;
+}
+
+main{
+	max-width: 800px;
 }
